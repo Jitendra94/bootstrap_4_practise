@@ -1,0 +1,5 @@
+node_modules
+bower_components
+.idea
+yarn.lock
+/public/assets/scss/*.css
